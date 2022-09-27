@@ -7,8 +7,8 @@ function display(value){
 }
 
 function calculate(){
-    var p = document.getElementById("result").value ;
-    var q = eval(p);
-    document.getElementById("result").value = q;
+    var r = document.getElementById("result").value ;
+    var b = eval(r);
+    document.getElementById("result").value = b;
     
 }
